@@ -94,6 +94,8 @@ type VisitorCard struct {
 	Weixin string `json:"weixin,omitempty"`
 	// QQ
 	QQ string `json:"qq,omitempty"`
+	// Msn
+	MSN string `json:"msn,omitempty"`
 	// Sex 性别
 	Sex string `json:"sex,omitempty"`
 	// IP ip
